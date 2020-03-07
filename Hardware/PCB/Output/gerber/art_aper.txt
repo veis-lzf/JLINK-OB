@@ -1,0 +1,80 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+CIRCLE            20            D10
+FLASH     FLASH_36             0.00000  D11
+CIRCLE            36            D12
+FLASH     FLASH_36                 180  D13
+FLASH     FLASH_36                  90  D14
+CIRCLE          39.4            D15
+CIRCLE          43.3            D16
+RECTANGLE         36        31   0.00000  D17
+RECTANGLE         40        35   0.00000  D18
+RECTANGLE         31        36   0.00000  D19
+RECTANGLE         35        40   0.00000  D20
+RECTANGLE       36.6      37.4   0.00000  D21
+RECTANGLE       44.5      45.3   0.00000  D22
+RECTANGLE         35        32   0.00000  D23
+RECTANGLE         39        36   0.00000  D24
+RECTANGLE         32        35   0.00000  D25
+RECTANGLE         36        39   0.00000  D26
+CIRCLE          59.1            D27
+FLASH     FLASH_1_5X2_0            270  D28
+CIRCLE          78.7            D29
+CIRCLE            65            D30
+RECTANGLE       47.2      86.6   0.00000  D31
+RECTANGLE       55.1      94.5   0.00000  D32
+RECTANGLE      137.8      84.6   0.00000  D33
+RECTANGLE      145.7      92.5   0.00000  D34
+FLASH     FLASH_1_5X2_0            180  D35
+RECTANGLE       70.9      27.6   0.00000  D36
+RECTANGLE       78.7      35.4   0.00000  D37
+RECTANGLE      118.1      82.7   0.00000  D38
+RECTANGLE        126      90.6   0.00000  D39
+SQUARE            63   0.00000            D40
+CIRCLE          70.9            D41
+SQUARE          66.9   0.00000            D42
+CIRCLE            63            D43
+CIRCLE          66.9            D44
+LINE            78.7            D45
+OBLONG         137.8      78.7   0.00000  D46
+LINE            82.7            D47
+OBLONG         141.7      82.7   0.00000  D48
+CIRCLE          47.2            D49
+CIRCLE          51.2            D50
+LINE            10.6            D51
+OBLONG          39.4      10.6   0.00000  D52
+LINE            15.7            D53
+OBLONG          45.3      15.7   0.00000  D54
+OBLONG          10.6      39.4   0.00000  D55
+OBLONG          15.7      45.3   0.00000  D56
+OBLONG          82.7     141.7   0.00000  D57
+OBLONG          78.7     137.8   0.00000  D58
+RECTANGLE       84.6     137.8   0.00000  D59
+RECTANGLE       92.5     145.7   0.00000  D60
+RECTANGLE       86.6      47.2   0.00000  D61
+RECTANGLE       94.5      55.1   0.00000  D62
+FLASH     FLASH_1_5X2_0        0.00000  D63
+RECTANGLE       82.7     118.1   0.00000  D64
+RECTANGLE       90.6       126   0.00000  D65
+RECTANGLE       27.6      70.9   0.00000  D66
+RECTANGLE       35.4      78.7   0.00000  D67
+RECTANGLE       37.4      36.6   0.00000  D68
+RECTANGLE       45.3      44.5   0.00000  D69
+LINE               6            D70
+LINE               5            D71
+LINE               8            D72
+LINE             4.1            D73
+LINE               4            D74
+LINE               1            D75
+LINE             3.9            D76
+LINE              20            D77
+LINE              30            D78
+LINE              10            D79
+LINE              25            D80
+LINE              15            D81
+LINE             7.9            D82
+LINE              40            D83
+

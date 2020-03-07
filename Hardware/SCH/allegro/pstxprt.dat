@@ -1,0 +1,317 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-07-2020 at 11:11:20 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='JINK_OB';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS20044@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins20044@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins20044@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS23772@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins23772@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins23772@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS20310@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins20310@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins20310@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS20642@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins20642@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins20642@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS22142@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins22142@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins22142@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS22498@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins22498@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins22498@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS22549@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins22549@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins22549@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS23636@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins23636@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins23636@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS23684@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins23684@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins23684@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS23728@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins23728@my_lib.\cap np.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins23728@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS19099@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins19099@my_lib.\led.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins19099@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'SMT-CON-4P-1R25_1_25_PWT_4P_SMT':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS25482@MY_LIB.SMT-CON-4P-1R25.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins25482@my_lib.\smt-con-4p-1r25.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins25482@my_lib.\smt-con-4p-1r25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_XH-2R54-4P-B_SWD':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS37003@MY_LIB.CON4.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins37003@my_lib.\con4.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins37003@my_lib.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON4_SIP-4_CON4':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS26276@MY_LIB.CON4.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins26276@my_lib.\con4.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins26276@my_lib.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18353@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18353@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18353@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS21798@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins21798@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins21798@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS21835@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins21835@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins21835@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS22010@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins22010@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins22010@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18421@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18421@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18421@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18504@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18504@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18504@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18543@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18543@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18543@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18583@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18583@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18583@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18621@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18621@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18621@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS18703@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins18703@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins18703@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS19735@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins19735@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins19735@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS20397@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins20397@my_lib.\r.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins20397@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103C8T6_6_LQFP-48_STM32F1':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS34113@JINK_OB.STM32F103C8T6_6A.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins34113@jink_ob.\stm32f103c8t6_6a.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins34113@jink_ob.\stm32f103c8t6_6a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS35760@JINK_OB.STM32F103C8T6_6B.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins35760@jink_ob.\stm32f103c8t6_6b.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins35760@jink_ob.\stm32f103c8t6_6b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U2 'AMS1117-3V3_0_SOT-223_AMS1117-3':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS5182@JINK_OB.AMS1117-3V3_0.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins5182@jink_ob.\ams1117-3v3_0.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins5182@jink_ob.\ams1117-3v3_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB_A_USB-A-M-DIP_USB_A_M':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS16376@MY_LIB.USB_A.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins16376@my_lib.\usb_a.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins16376@my_lib.\usb_a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_0_HC-49S_8M':;
+
+SECTION_NUMBER 1
+ '@JINK_OB.SCHEMATIC1(SCH_1):INS835@JINK_OB.CRYSTAL_0.NORMAL(CHIPS)':
+ C_PATH='@jink_ob.schematic1(sch_1):ins835@jink_ob.\crystal_0.normal\(chips)',
+ P_PATH='@jink_ob.schematic1(sch_1):page_ins835@jink_ob.\crystal_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

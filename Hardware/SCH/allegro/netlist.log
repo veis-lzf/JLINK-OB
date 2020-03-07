@@ -1,0 +1,15 @@
+{ Using PSTWRITER 16.6.0 d001Mar-07-2020 at 11:11:15 }
+
+#1 WARNING(ORCAP-36006): Part Name "SMT-CON-4P-1R25_1_25_PWT_4P_SMT-CON-4P-1R25" is renamed to "SMT-CON-4P-1R25_1_25_PWT_4P_SMT".
+#2 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_6_LQFP-48_STM32F103C8T6" is renamed to "STM32F103C8T6_6_LQFP-48_STM32F1".
+#3 WARNING(ORCAP-36006): Part Name "AMS1117-3V3_0_SOT-223_AMS1117-3V3" is renamed to "AMS1117-3V3_0_SOT-223_AMS1117-3".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\JLINK OB\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\JLINK OB\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\JLINK OB\SCH\allegro/pstxprt.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\JLINK OB\SCH\allegro/pstxnet.dat
+packaging the design view...
